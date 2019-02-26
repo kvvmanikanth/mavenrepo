@@ -32,7 +32,7 @@
             <url>http://10.128.0.10:8081/repository/student-rel/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>sample-repo</id>
             <name>Internal Snapshot Releases</name>
             <url>http://ec2-100-26-182-217.compute-1.amazonaws.com:8081/repository/sample-repo/</url>
         </snapshotRepository>
