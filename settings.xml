@@ -1,7 +1,7 @@
 <settings>
 <servers>
     <server>
-      <id>deployment</id>
+      <id>sample-repo</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
